@@ -23,3 +23,5 @@ The essential concepts / parts / aspects to know about in webpack:
 - [Webpack beginner guide](https://www.sitepoint.com/webpack-beginner-guide/)
 
 - [Webpack configuration documentation 4 DevServer](https://webpack.js.org/configuration/dev-server/)
+
+- [Optimize images using webpack in React.js](https://cloudinary.com/blog/guest_post/optimize-images-using-webpack-in-react)

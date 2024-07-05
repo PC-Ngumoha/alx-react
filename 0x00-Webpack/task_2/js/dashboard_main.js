@@ -9,6 +9,7 @@ $('body').append("<div id='logo'></div>");
 $('#logo').attr('width', '200px');
 $('#logo').attr('height', '200px');
 $('#logo').css('background-image', logo);
+$('#logo').css('background-size', '200px 200px');
 
 $('body').append('<p>Holberton Dashboard</p>');
 $('body').append('<p>Dashboard data for the students</p>');
